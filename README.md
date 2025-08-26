@@ -12,7 +12,7 @@ Business users often struggle to explore Power BI dashboards efficiently without
 ## Features
 
 - Interactive question and answer interface for business KPIs.
-- Predefined topics: Sales & Revenue, Profitability, Customer Trends, Inventory, Reports.
+- Predefined topics
 - Drill-down queries
 - Backend automation via **Power Automate flows**.
 - Results formatted and returned to chatbot in real time.
